@@ -20,8 +20,6 @@
 <img align="right" alt="GIF" width="256px"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRuc2w0ZWt0bGl6azd0eWFwM3B6bzRmN3g1Mmk5MmdneHN6bjQxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" />
 
 ### I am Shlok Limbhare
-- Film effects artist
-- An ML & Open Source enthusiast.
+- Film effects artist (SideFX - Houdini)
 - A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- Currently working on some of my cool side projects based on GPU kernels and Machine Learning.
