@@ -6,10 +6,6 @@
 <a href="https://www.linkedin.com/in/shlok-limbhare-50180120b/">
   <img align="left" alt="Shlok's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="(https://github.com/ShlokVFX">
-  <img align="left" alt="Shlok's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-</a>
 <a href="https://leetcode.com/u/ShlokGPU/">
   <img align="left" alt="Shlok's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
