@@ -10,11 +10,8 @@
   <img align="left" alt="Shlok's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </a>
-<a href="https://www.hackerrank.com/profile/limbizzz11">
-  <img align="left" alt="Shlok's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.kaggle.com/shloklimbhare">
-  <img align="left" alt="Shlok's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+<a href="https://leetcode.com/u/ShlokGPU/">
+  <img align="left" alt="Shlok's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br />
 <img align="right" alt="GIF" width="256px"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRuc2w0ZWt0bGl6azd0eWFwM3B6bzRmN3g1Mmk5MmdneHN6bjQxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" />
