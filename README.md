@@ -14,7 +14,6 @@
 <img align="right" alt="GIF" width="256px"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRuc2w0ZWt0bGl6azd0eWFwM3B6bzRmN3g1Mmk5MmdneHN6bjQxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" />
 
 I work on machine learning systems with a focus on:
-- Reinforcement Learning
 - Large Language Models
 - Tokenization & NLP
 - GPU / Performance Optimization
@@ -22,22 +21,20 @@ I work on machine learning systems with a focus on:
 ---
 
 ## Interests
-- Applied Reinforcement Learning (monetization, optimization)
 - LLM engineering and inference systems
 - High-performance ML infrastructure
 
 ---
 
 ## Projects
-- Reinforcement Learning Systems
 - Tokenizers & NLP pipelines
 - GPU kernels and performance optimization
 
 ---
 
 ## Currently Learning
-- Advanced RL algorithms (PPO, SAC, Offline RL)
-- Modern tokenizer architectures
+- Advanced RL algorithms (GRPO)
+- Modern tokenizer architectures(bpe , sentencepiece)
 - ML systems & compiler-level optimizations
 
 ---
